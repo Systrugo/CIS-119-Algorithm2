@@ -1,3 +1,17 @@
-// Enter your algorithms in this document.
-// Be sure to include your name and your GitHub user name
+#Drew Wendland
+#10/10/19
+PART 1:
+Prompt the user to enter a start and a finish number. 
+Display the numbers between start and finish, inclusive.
+
+PART 2:
+Modify your algorithm to display the numbers in descending order.
+
+PART 3:
+Modify your algorithm so that if the starting number is bigger than the finish number, 
+don't print the numbers, display an error message instead.
+
+PART 4:
+Modify your algorithm so that if the starting number is bigger than the finish number,
+swap their values so that they're in the peroper order, then display the integers as specified.
 
